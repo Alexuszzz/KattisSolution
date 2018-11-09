@@ -13,7 +13,7 @@ public class Sequences {
 
 	public static void main(String[] args) throws FileNotFoundException {
 
-		Scanner sc = new Scanner(new File("C:\\Users\\admin\\Desktop\\input.txt"));
+		Scanner sc = new Scanner(System.in);
 
 		String firstInput =  sc.next();
 
