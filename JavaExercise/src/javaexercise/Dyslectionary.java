@@ -75,9 +75,9 @@ public class Dyslectionary {
 			if(!finished) {
 				System.out.println(" "); 
 			}
-
+         
 		}     
-
+         sc.close();
 	}
 }
 		
