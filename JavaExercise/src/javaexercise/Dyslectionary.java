@@ -12,7 +12,7 @@ public class Dyslectionary {
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
-		Scanner sc = new Scanner(new File("C:\\Users\\admin\\Desktop\\samples\\sample.txt"));
+		Scanner sc = new Scanner(new File("C:\\Users\\admin\\Desktop\\samples\\sample.txt"),"UTF-8");
 	
 		boolean finished = false;
 		 	 
