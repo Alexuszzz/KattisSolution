@@ -23,7 +23,7 @@ public class NoDuplicates {
 
 		while(sc.hasNext()) {  	
 
-			words.add(sc.next());
+			words.add(sc.next()); 
 		}
 
 		for(String s: words) {
