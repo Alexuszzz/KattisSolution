@@ -1,7 +1,5 @@
 package javaexercise;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -10,10 +8,11 @@ import java.util.Scanner;
 
 public class Dyslectionary {
 
-	public static void main(String[] args) throws FileNotFoundException {
+	public static void main(String[] args) {
 		
-		Scanner sc = new Scanner(new File("C:\\Users\\admin\\Desktop\\samples\\sample.txt"),"UTF-8");
-	
+		//Scanner sc = new Scanner(new File("C:\\Users\\admin\\Desktop\\samples\\sample.txt"));
+		Scanner sc = new Scanner(System.in);
+		
 		boolean finished = false;
 		 	 
 		while(sc.hasNext()) {
@@ -24,18 +23,23 @@ public class Dyslectionary {
 			while(sc.hasNext()) {
 
 				String word = sc.nextLine();
+				
+				if(word == null) {
+					finished = true; 
+					break; 
+				}
 
 				if(word.isEmpty()) {
 					break;
 				}		
-
+				
 				dictionary.add(word);
 
 				if(word.length()>max) {
 					max = word.length();
 
 				}
-
+				
 			} 	
 
 			//set up the presentation
