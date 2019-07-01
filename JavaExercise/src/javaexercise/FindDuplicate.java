@@ -21,7 +21,7 @@ public class FindDuplicate {
 					 low = mid +1;
 				 }
 			}
-		}				
+		}				 
 		return low;		
 		
 	}
