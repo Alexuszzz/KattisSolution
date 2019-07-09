@@ -14,6 +14,9 @@ public class Soylent {
 			 int calrories = sc.nextInt();
 			 System.out.println((int)Math.ceil(calrories/400.0));
 		}
+		sc.close();
 	}
+	
+	
 
 }
