@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaExercise/JavaExercise.iml" filepath="$PROJECT_DIR$/JavaExercise/JavaExercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KattisSolution.iml" filepath="$PROJECT_DIR$/KattisSolution.iml" />
+    </modules>
+  </component>
+</project>
