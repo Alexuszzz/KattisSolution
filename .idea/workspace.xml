@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="22d4a838-def3-4f5c-bfdb-5b99150adba9" name="Default Changelist" comment="" />
+    <list default="true" id="22d4a838-def3-4f5c-bfdb-5b99150adba9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/JavaExercise/bin/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -16,16 +18,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaExercise/src/javaexercise/QuickBrownFox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+            <state relative-caret-position="289">
+              <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaExercise/src/javaexercise/SodaSurpler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaExercise/src/javaexercise/SolvingForCarrots.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="8" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,10 +61,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/JavaExercise/src/javaexercise/QuickBrownFox.java" />
+        <option value="$PROJECT_DIR$/JavaExercise/src/javaexercise/SodaSurpler.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="470" />
     <option name="y" value="106" />
     <option name="width" value="974" />
@@ -100,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickBrownFox">
+  <component name="RunManager" selected="Application.SodaSurpler">
     <configuration name="JanitorTroubles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaexercise.JanitorTroubles" />
       <module name="JavaExercise" />
@@ -114,11 +142,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickBrownFox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexercise.QuickBrownFox" />
+    <configuration name="SodaSurpler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexercise.SodaSurpler" />
       <module name="JavaExercise" />
       <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$USER_HOME$/Downloads/quickbrownfox/a.in" />
+      <option name="INPUT_FILE" value="$USER_HOME$/Downloads/sodasurpler/1.in" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javaexercise.*" />
@@ -130,12 +158,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.QuickBrownFox" />
+      <item itemvalue="Application.SodaSurpler" />
       <item itemvalue="Application.JanitorTroubles" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickBrownFox" />
+        <item itemvalue="Application.SodaSurpler" />
         <item itemvalue="Application.JanitorTroubles" />
       </list>
     </recent_temporary>
@@ -185,24 +213,6 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JavaExercise/src/javaexercise/QuickBrownFox.java</url>
-          <line>12</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JavaExercise/src/javaexercise/QuickBrownFox.java</url>
-          <line>15</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
       <expression>
@@ -242,10 +252,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JavaExercise/src/javaexercise/SolvingForCarrots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JavaExercise/src/javaexercise/QuickBrownFox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+        <state relative-caret-position="289">
+          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaExercise/src/javaexercise/SodaSurpler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
